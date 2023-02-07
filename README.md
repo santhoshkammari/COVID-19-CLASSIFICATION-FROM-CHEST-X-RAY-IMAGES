@@ -18,3 +18,19 @@ COVID-19 chest x-ray image dataset: Dataset of chest X-ray and CT images of pati
 Normal person chest x-ray image dataset:There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).1341 images are of Normal category.
 
 **OBJECTIVES:**
+
+Develop a cnn model adapted from VGG-16.
+
+**PREPROCESSING:**
+
+Converting 224x224 RGB image to BGR image, because OpenCV library uses
+BGR image format.
+Scaling down pixel values to 0 and 1 by dividing with 255
+Data augmentation: Horizontal flip, Slight zoom, Slight shear.
+Resize to 224x224x3 RGB to BGR format.
+Splitting of dataset into train, validation, test 8:1:1
+
+
+
+
+
