@@ -30,7 +30,16 @@ Data augmentation: Horizontal flip, Slight zoom, Slight shear.
 Resize to 224x224x3 RGB to BGR format.
 Splitting of dataset into train, validation, test 8:1:1
 
+**MODEL ARCHITECTURE:**
 
 
 
+
+
+![Screenshot_20230207_102339](https://user-images.githubusercontent.com/56174010/217151845-d96d552a-991b-41dd-9618-66e2dbffc93a.png)
+
+
+**RESULTS:**
+
+![Screenshot_20230207_102349](https://user-images.githubusercontent.com/56174010/217151894-3391b738-9561-43d6-b657-f13412f55067.png)
 
