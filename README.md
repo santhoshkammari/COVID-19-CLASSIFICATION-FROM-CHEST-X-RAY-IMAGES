@@ -1,7 +1,9 @@
 # COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES
 
 covid-19 classification from chest x ray images using convolutional neural networks
-**INTRODUCTION**
+
+
+**INTRODUCTION:**
 The outbreak of Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome (SARS); in response to the rapidly increasing number of cases of
 the emerging disease, this Analysis attempts to provide a comprehensive review of
 the Covid-19 Virus. We hope that this Analysis helps in understanding and taking
